@@ -1,6 +1,8 @@
 # backlash_simulation_examples
 Basic backlash simulation scripts with examples.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpoignonec/backlash_simulation_examples/main)
+
 ## How to get started?
 
 1) Create python virtual env.
@@ -19,3 +21,5 @@ source .venv/bin/activate
 ```bash
 pip install -e .
 ```
+
+
