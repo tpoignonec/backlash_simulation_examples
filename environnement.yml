@@ -1,0 +1,17 @@
+name: backlash_dev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - spyder
+  - opencv=4.*.*
+  - numpy
+  - scipy
+  - sympy
+  - pandas
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pip:
+      - tdqm
